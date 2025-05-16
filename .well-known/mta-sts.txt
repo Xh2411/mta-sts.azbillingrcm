@@ -1,4 +1,7 @@
-version: STSv1
+version: STSv1 
+id=20250516183000Z
 mode: testing
-mx: *azbillingrcm.com
+mx: mx1.azbillingrcm.com
+mx: mx2.rcm.azbillingrcm.com
+mx: mx3.21301081.group31.sites.hubspot.net
 max_age: 1209600
