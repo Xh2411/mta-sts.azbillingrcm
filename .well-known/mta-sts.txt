@@ -1,5 +1,4 @@
 version: STSv1 
-id=20250516183000Z
 mode: testing
 mx: mx1.azbillingrcm.com
 mx: mx2.rcm.azbillingrcm.com
