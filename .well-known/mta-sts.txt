@@ -1,5 +1,5 @@
 version: STSv1 
-mode: Testing
+mode: testing
 mx: *.azbillingrcm.com
 mx: rcm.azbillingrcm.com
 mx: 21301081.group31.sites.hubspot.net
