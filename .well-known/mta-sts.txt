@@ -1,5 +1,4 @@
 version: STSv1 
 mode: testing
 mx: azbillingrcm-com.mail.protection.outlook.com
-mx: mail.crm.azbillingrcm.com
 max_age: 86400
